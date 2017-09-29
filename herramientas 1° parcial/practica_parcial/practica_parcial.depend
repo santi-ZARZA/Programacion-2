@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1503372426 source:c:\users\santiago\desktop\practica_parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1503373788 source:c:\users\santiago\desktop\practica_parcial\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1503373807 c:\users\santiago\desktop\practica_parcial\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1506721497 source:c:\users\santiago\desktop\prac parcial\practica_parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	"funciones.h"
+
+1506645016 c:\users\santiago\desktop\prac parcial\practica_parcial\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1506650596 source:c:\users\santiago\desktop\prac parcial\practica_parcial\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+
