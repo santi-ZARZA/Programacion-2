@@ -1,0 +1,7 @@
+C:\Users\Iglesia de la Gracia\Desktop\zarza.santiago\zarza.santiago\Ejercicio 01\bin\Debug\Ejercicio 01.exe.config
+C:\Users\Iglesia de la Gracia\Desktop\zarza.santiago\zarza.santiago\Ejercicio 01\bin\Debug\Ejercicio 01.exe
+C:\Users\Iglesia de la Gracia\Desktop\zarza.santiago\zarza.santiago\Ejercicio 01\bin\Debug\Ejercicio 01.pdb
+C:\Users\Iglesia de la Gracia\Desktop\zarza.santiago\zarza.santiago\Ejercicio 01\obj\Debug\Ejercicio 01.csprojResolveAssemblyReference.cache
+C:\Users\Iglesia de la Gracia\Desktop\zarza.santiago\zarza.santiago\Ejercicio 01\obj\Debug\Ejercicio 01.csproj.CoreCompileInputs.cache
+C:\Users\Iglesia de la Gracia\Desktop\zarza.santiago\zarza.santiago\Ejercicio 01\obj\Debug\Ejercicio 01.exe
+C:\Users\Iglesia de la Gracia\Desktop\zarza.santiago\zarza.santiago\Ejercicio 01\obj\Debug\Ejercicio 01.pdb
