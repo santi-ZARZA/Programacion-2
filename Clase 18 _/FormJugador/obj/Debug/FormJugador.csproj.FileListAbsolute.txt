@@ -1,0 +1,11 @@
+D:\VisualStudio\Clase 18 _\FormJugador\bin\Debug\FormJugador.exe.config
+D:\VisualStudio\Clase 18 _\FormJugador\bin\Debug\FormJugador.exe
+D:\VisualStudio\Clase 18 _\FormJugador\bin\Debug\FormJugador.pdb
+D:\VisualStudio\Clase 18 _\FormJugador\bin\Debug\Entidades.dll
+D:\VisualStudio\Clase 18 _\FormJugador\bin\Debug\Entidades.pdb
+D:\VisualStudio\Clase 18 _\FormJugador\obj\Debug\FormJugador.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Clase 18 _\FormJugador\obj\Debug\FormJugador.Form1.resources
+D:\VisualStudio\Clase 18 _\FormJugador\obj\Debug\FormJugador.Properties.Resources.resources
+D:\VisualStudio\Clase 18 _\FormJugador\obj\Debug\FormJugador.csproj.GenerateResource.Cache
+D:\VisualStudio\Clase 18 _\FormJugador\obj\Debug\FormJugador.exe
+D:\VisualStudio\Clase 18 _\FormJugador\obj\Debug\FormJugador.pdb
