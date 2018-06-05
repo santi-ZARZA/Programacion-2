@@ -1,0 +1,6 @@
+c:\users\iglesia de la gracia\source\repos\Practica Archivos\Entidades\bin\Debug\Entidades.dll
+c:\users\iglesia de la gracia\source\repos\Practica Archivos\Entidades\bin\Debug\Entidades.pdb
+c:\users\iglesia de la gracia\source\repos\Practica Archivos\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+c:\users\iglesia de la gracia\source\repos\Practica Archivos\Entidades\obj\Debug\Entidades.dll
+c:\users\iglesia de la gracia\source\repos\Practica Archivos\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Iglesia de la Gracia\source\repos\Practica Archivos\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache

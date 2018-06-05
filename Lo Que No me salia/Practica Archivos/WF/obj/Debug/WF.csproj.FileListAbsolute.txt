@@ -1,0 +1,12 @@
+c:\users\iglesia de la gracia\source\repos\Practica Archivos\WF\bin\Debug\WF.exe.config
+c:\users\iglesia de la gracia\source\repos\Practica Archivos\WF\bin\Debug\WF.exe
+c:\users\iglesia de la gracia\source\repos\Practica Archivos\WF\bin\Debug\WF.pdb
+c:\users\iglesia de la gracia\source\repos\Practica Archivos\WF\bin\Debug\Entidades.dll
+c:\users\iglesia de la gracia\source\repos\Practica Archivos\WF\bin\Debug\Entidades.pdb
+c:\users\iglesia de la gracia\source\repos\Practica Archivos\WF\obj\Debug\WF.csprojResolveAssemblyReference.cache
+c:\users\iglesia de la gracia\source\repos\Practica Archivos\WF\obj\Debug\WF.Form1.resources
+c:\users\iglesia de la gracia\source\repos\Practica Archivos\WF\obj\Debug\WF.Properties.Resources.resources
+c:\users\iglesia de la gracia\source\repos\Practica Archivos\WF\obj\Debug\WF.csproj.GenerateResource.Cache
+c:\users\iglesia de la gracia\source\repos\Practica Archivos\WF\obj\Debug\WF.csproj.CoreCompileInputs.cache
+c:\users\iglesia de la gracia\source\repos\Practica Archivos\WF\obj\Debug\WF.exe
+c:\users\iglesia de la gracia\source\repos\Practica Archivos\WF\obj\Debug\WF.pdb
