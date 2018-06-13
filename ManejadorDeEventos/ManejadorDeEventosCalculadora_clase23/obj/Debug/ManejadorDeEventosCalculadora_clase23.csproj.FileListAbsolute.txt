@@ -1,0 +1,4 @@
+C:\Users\Iglesia de la Gracia\Desktop\ManejadorDeEventos\ManejadorDeEventosCalculadora_clase23\obj\Debug\ManejadorDeEventosCalculadora_clase23.Form1.resources
+C:\Users\Iglesia de la Gracia\Desktop\ManejadorDeEventos\ManejadorDeEventosCalculadora_clase23\obj\Debug\ManejadorDeEventosCalculadora_clase23.Properties.Resources.resources
+C:\Users\Iglesia de la Gracia\Desktop\ManejadorDeEventos\ManejadorDeEventosCalculadora_clase23\obj\Debug\ManejadorDeEventosCalculadora_clase23.csproj.GenerateResource.Cache
+C:\Users\Iglesia de la Gracia\Desktop\ManejadorDeEventos\ManejadorDeEventosCalculadora_clase23\obj\Debug\ManejadorDeEventosCalculadora_clase23.csproj.CoreCompileInputs.cache
